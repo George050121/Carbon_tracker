@@ -57,9 +57,9 @@ git clone <repository_url>
 cd <repository_folder>
 
 
-	2.	Run the Application:
+	2.	Run the Application: Streamlit run app.py
 
-streamlit run app.py
+
 
 The application will launch in your default web browser.
 
