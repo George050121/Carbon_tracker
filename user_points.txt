@@ -1,0 +1,6 @@
+username,cumulative_points,yesterday_points
+George,-0.1539999999999981,-2.539999999999999
+John,-57.0,-7.5
+Chris,-178.5,-173.0
+gou,-124.65,-37.5
+Rodrigo,-307.97499999999997,-313.775
