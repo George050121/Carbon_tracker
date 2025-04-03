@@ -99,7 +99,7 @@ This project is licensed under the MIT License.
 
 Credits
 
-Developed by [Your Name] as part of a hackathon project. Special thanks to contributors and data sources that provided emission factor estimates and NJ environmental data.
+Developed by [George] as part of a hackathon project. Special thanks to contributors and data sources that provided emission factor estimates and NJ environmental data.
 
 ⸻
 
